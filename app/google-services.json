@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "213404682791",
+    "project_id": "alzheimer-s-27124",
+    "storage_bucket": "alzheimer-s-27124.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213404682791:android:be3a713c426bb8c05adc02",
+        "android_client_info": {
+          "package_name": "com.projecttask.alzheimers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZSNiADV1NgzjRmacnC2OcJDax2wnXVZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">"My App"</string>
+    <string name="user_name" tools:ignore="ExtraTranslation">UserName</string>
+    <string name="login" tools:ignore="ExtraTranslation">Login</string>
+    <string name="are_you_have_account" tools:ignore="ExtraTranslation">Are You Have Account?</string>
+    <string name="confirm_password" tools:ignore="ExtraTranslation">Confirm Password</string>
+    <string name="password" tools:ignore="ExtraTranslation">Password</string>
+    <string name="phone" tools:ignore="ExtraTranslation">Phone</string>
+    <string name="email" tools:ignore="ExtraTranslation">Email</string>
+    <string name="sign_up" tools:ignore="ExtraTranslation">Register</string>
+    <string name="alzheimer" tools:ignore="ExtraTranslation">Alzheimer</string>
+    <string name="signup" tools:ignore="ExtraTranslation">Register</string>
+    <string name="todo" tools:ignore="ExtraTranslation">todo</string>
+    <string name="todoo" tools:ignore="ExtraTranslation">todo</string>
+    <string name="image" tools:ignore="ExtraTranslation">Image</string>
+    <string name="please_enter_your_username" tools:ignore="ExtraTranslation">Please Enter UserName</string>
+    <string name="please_enter_your_email" tools:ignore="ExtraTranslation">Please Enter Email</string>
+    <string name="please_enter_your_Phone" tools:ignore="ExtraTranslation">Please Add Phone Number </string>
+    <string name="please_enter_your_Password" tools:ignore="ExtraTranslation">Please Enter Password</string>
+    <string name="please_enter_Valid_email" tools:ignore="ExtraTranslation"> Please Enter Valid Email</string>
+    <string name="Phone_Should_be_11_char" tools:ignore="ExtraTranslation">Phone Should be 11 Char</string>
+</resources>

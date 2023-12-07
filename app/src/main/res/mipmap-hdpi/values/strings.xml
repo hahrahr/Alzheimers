@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AlzheimerApp</string>
+    <string name="user_name">User Name</string>
+    <string name="login">Login</string>
+    <string name="are_you_have_account">Are You Have Account?</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="alzheimer">Alzheimer</string>
+    <string name="signup">SignUp</string>
+    <string name="todo">TODO</string>
+    <string name="todoo">TODO</string>
+    <string name="image">image</string>
+    <string name="please_enter_your_username">Please Enter Your UserName</string>
+    <string name="please_enter_your_email">Please Enter Your Email</string>
+    <string name="please_enter_your_Phone">Please Enter Your Phone </string>
+    <string name="please_enter_your_Password"> Please Enter Password</string>
+    <string name="please_enter_Valid_email"> Please Enter Valid Email</string>
+    <string name="Phone_Should_be_11_char">Phone Should be 11 Char</string>
+</resources>

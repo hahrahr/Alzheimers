@@ -1,0 +1,9 @@
+<resources  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.android.com/tools ">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AlzheimerApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.AlzheimerApp" parent="Base.Theme.AlzheimerApp" />
+</resources>

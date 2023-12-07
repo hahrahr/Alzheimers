@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple"
+    android:orientation="vertical"
+    tools:context=".ui.IntroActivityOne">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="160dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/splashscreen" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="180dp"
+        android:gravity="center"
+        android:text="Alzheimer"
+        android:textColor="@color/white"
+        android:textSize="40dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:gravity="center"
+        android:padding="17dp"
+        android:text="في عالم يتسارع فيه الابتكار،\n
+ يأتي تطبيقنا لفهم ودعم الأفراد المتأثرين بمرض الزهايمر
+\nاكتشف معنا أسبابه وأعراضه، وتعلم أحدث الأبحاث واستراتيجيات الرعاية
+دليلك الشامل لتفهم أفضل وتواجه تحديات هذا الاضطراب معًا"
+        android:textColor="@color/white"
+        android:textSize="14dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="355dp"
+        android:gravity="center"
+        android:text="- *معلومات شاملة:*
+\n مقالات، فيديوهات، ومحتوى تفاعلي حول الزهايمر وتأثيراته على الدماغ\n
+\n
+- *دعم لمقدمي الرعاية:*
+ \nنصائح عملية ودعم للمقدمين للعناية بالمصابين بالزهايمر\n
+\n
+- *تواصل مجتمعي:*
+\nمنتديات ومجموعات دعم للتواصل وتبادل التجارب\n
+\n
+- *تحديثات بحثية:*
+\nأحدث الابتكارات والأبحاث في عالم الزهايمر\n
+\n
+انضم إلينا في رحلتنا لمواجهة مرض الزهايمر بفعالية وفهم اعمق \n "
+        android:textColor="@color/white"
+        android:textSize="14dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/introBtn"
+        android:layout_width="120dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="270dp"
+        android:layout_marginTop="650dp"
+        android:backgroundTint="@color/white"
+        android:gravity="center"
+        android:text="Next"
+        android:textColor="@color/purple"
+        android:textSize="23dp"
+        android:textStyle="bold" />
+
+</RelativeLayout>
